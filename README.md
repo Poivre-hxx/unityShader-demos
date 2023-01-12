@@ -2,4 +2,4 @@
 
 - hw1
 
-  ![hw1](D:\TA\unityShader-demos\assets\hw1.gif)
+ <img src="https://github.com/Poivre-hxx/unityShader-demos/blob/main/Assets/hw1.gif"></img>
